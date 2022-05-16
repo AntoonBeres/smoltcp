@@ -1,3 +1,5 @@
+//test
+
 //! 6lowpan benchmark exmaple
 //!
 //! This example runs a simple TCP throughput benchmark using the 6lowpan implementation in smoltcp
